@@ -1,0 +1,3 @@
+/Users/Yousanflics/Documents/Clion/BinaryTree1-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Yousanflics/Documents/Clion/BinaryTree1-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Yousanflics/Documents/Clion/BinaryTree1-2/cmake-build-debug/CMakeFiles/BinaryTree1_2.dir

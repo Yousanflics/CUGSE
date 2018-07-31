@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/ClientAgentThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GuiZe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/QiPan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/QiZi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ServerAgentThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ServerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TalkClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TalkServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/XiangQi.java" charset="GBK" />
+  </component>
+</project>
